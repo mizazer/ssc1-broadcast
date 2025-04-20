@@ -1,5 +1,5 @@
 [build]
-builder = "node"
+  builder = "docker"
 
 [start]
   command = "bash start.sh"
