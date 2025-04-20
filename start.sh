@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # رابط البث المباشر (مثال: SSC)
-SOURCE="https://watch.3rbcafee.com/2024/10/sscnew-prem.html?id=SSC1"
+SOURCE="https://dd.alkoora.live/albaplayer/ad-sport-1"
 
 # رابط الإرسال (مثال: YouTube, Facebook, إلخ)
 # لازم تغيّر هذا حسب اللي تحب تبث فيه
