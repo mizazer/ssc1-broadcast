@@ -1,0 +1,5 @@
+[build]
+  command = "echo building..."
+
+[start]
+  command = "bash start.sh"
