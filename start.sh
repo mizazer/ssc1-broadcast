@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # رابط البث المباشر
-m3u8_url="https://watch.3rbcafee.com/2024/10/sscnew-prem.html?id=SSC1"
+m3u8_url="https://af.ayassport.ir/hls2/ssc1.m3u8​"
 
 # بيانات البث من Restream
 rtmp_url="rtmp://live.restream.io/studio"
