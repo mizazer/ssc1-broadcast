@@ -1,2 +1,11 @@
 #!/bin/bash
-ffmpeg -i "https://af.ayassport.ir/hls2/ssc1.m3u8" -f flv "rtmp://live.restream.io/studio/streamv2_9518871_145adf010235485884ae41c78f59e5bb6d8efb"
+
+# رابط البث المباشر (مثال: SSC)
+SOURCE="https://watch.3rbcafee.com/2024/10/sscnew-prem.html?id=SSC1"
+
+# رابط الإرسال (مثال: YouTube, Facebook, إلخ)
+# لازم تغيّر هذا حسب اللي تحب تبث فيه
+DEST="rtmp://live.restream.io/live/YOUR_STREAM_KEY"
+
+# ffmpeg command
+ffmpeg -re -i "$SOURCE" -c:v copy -c:a aac -f flv "$DEST"
