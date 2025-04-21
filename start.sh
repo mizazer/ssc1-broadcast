@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # رابط البث المباشر (مثال: SSC)
-SOURCE="https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8"
+SOURCE="https://livepush.io/hls-player/index.html"
 
 # رابط الإرسال (مثال: YouTube, Facebook, إلخ)
 # لازم تغيّر هذا حسب اللي تحب تبث فيه
