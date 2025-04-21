@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # رابط البث المباشر (مثال: SSC)
-SOURCE="https://dd.alkoora.live/albaplayer/ad-sport-1"
+SOURCE="https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8"
 
 # رابط الإرسال (مثال: YouTube, Facebook, إلخ)
 # لازم تغيّر هذا حسب اللي تحب تبث فيه
